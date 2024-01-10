@@ -60,7 +60,6 @@ src="https://img.shields.io/github/followers/Densu341?logo=github&style=for-the-
     </picture> 
   </a>
 </p>
-### Badges
 
 <b>My GitHub Stats</b>
 
