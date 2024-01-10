@@ -23,7 +23,43 @@ src="https://img.shields.io/github/followers/Densu341?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/deny341" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Densu341" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mas_denyyyy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/deni-irawan-073766233/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@Dedendev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> 
+  <a href="https://discord.com/users/deny341" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Densu341/Densu341/blob/main/discord.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Densu341/Densu341/blob/main/discord.svg" /> 
+      <img src="https://github.com/Densu341/Densu341/blob/main/discord.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  <a href="https://www.github.com/Densu341" target="_blank" rel="noreferrer"> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Densu341/Densu341/blob/main/github.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Densu341/Densu341/blob/main/github.svg" /> 
+      <img src="https://github.com/Densu341/Densu341/blob/main/github.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  <a href="http://www.instagram.com/mas_denyyyy" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Densu341/Densu341/blob/main/instagram.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Densu341/Densu341/blob/main/instagram.svg" /> 
+      <img src="https://github.com/Densu341/Densu341/blob/main/instagram.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  <a href="https://www.linkedin.com/in/deni-irawan-073766233/" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  <a href="https://www.youtube.com/@Dedendev" target="_blank" rel="noreferrer" > 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Densu341/Densu341/blob/main/youtube.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Densu341/Densu341/blob/main/youtube.svg" /> 
+      <img src="https://github.com/Densu341/Densu341/blob/main/youtube.svg" width="32" height="32" /> 
+    </picture> 
+  </a>
+</p>
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -34,8 +70,7 @@ src="https://img.shields.io/github/followers/Densu341?logo=github&style=for-the-
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
+<a href="https://www.buymeacoffee.com/deny341">
+   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+</a>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/deny341"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
