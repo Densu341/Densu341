@@ -1,5 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deni Irawan
-===================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deni Irawan
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Densu341&label=Profile%20views&color=0e75b6&style=flat" alt="Densu341" /> </p>
 
 Web Developer and ML Dev
 ------------------------
