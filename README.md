@@ -55,7 +55,7 @@ src="https://img.shields.io/github/followers/Densu341?logo=github&style=for-the-
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Densu341/Densu341/blob/main/github.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/Densu341/Densu341/blob/main/github.svg" /> 
-      <img src="https://github.com/Densu341/Densu341/blob/main/github.svg" width="32" height="32" /> 
+      <img src="https://github.com/Densu341/Densu341/blob/main/github.png" width="32" height="32" /> 
     </picture> 
   </a> 
   &nbsp;&nbsp;&nbsp;
