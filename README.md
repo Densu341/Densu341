@@ -53,8 +53,8 @@ src="https://img.shields.io/github/followers/Densu341?logo=github&style=for-the-
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.github.com/Densu341" target="_blank" rel="noreferrer"> 
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Densu341/Densu341/blob/main/github.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Densu341/Densu341/blob/main/github.svg" /> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Densu341/Densu341/blob/main/github.png" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Densu341/Densu341/blob/main/github.png" /> 
       <img src="https://github.com/Densu341/Densu341/blob/main/github.png" width="32" height="32" /> 
     </picture> 
   </a> 
